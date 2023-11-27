@@ -11,18 +11,25 @@
    - Babyface
    - Tank
      
-2.Modifiers
+2. Modifiers
    - DMT, 5-HT
    - Harmony
    - Vacation, Weekend, Evening
 
 3. Transform
-   - Investigate affective states using `generaetive transformations`
+   - Investigate affective states using `generative transformations`
+   - `Nodes & edges in neuronetworks`
+   - Place-holders for substitution?
      
-4.Subject
+4. Subject
    - Engagement 
    - Motiv 
    - Relaxation
 
-5. Object
+5. Verb
+   - Transformations
+   - Active, passive
+   - Deletion, inversion
+   
+7. Object
    - Discuss the completion of hospitalization paper with MGB
